@@ -1,1 +1,1 @@
-#Demo a repository for a webiste
+#Demo repository for a webiste
